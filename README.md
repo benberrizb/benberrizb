@@ -1,5 +1,3 @@
-[![Followers](https://img.shields.io/github/followers/benberrizb?label=Followers&style=flat-square&cacheSeconds=0)](https://github.com/benberrizb)
-
 ## About
 Hi, I'm Benjamin Berrizbeitia, a Computer Science student at UF focused on software engineering, developer tools, and building software that is useful in practice.
 
