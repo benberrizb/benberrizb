@@ -1,4 +1,3 @@
-[![Hackathons](https://img.shields.io/badge/Hackathons-20%2B-brightgreen?style=flat-square)](https://github.com/benberrizb)
 [![Followers](https://img.shields.io/github/followers/benberrizb?label=Followers&style=flat-square)](https://github.com/benberrizb)
 
 ## About
