@@ -12,4 +12,4 @@ Hi, I'm Benjamin Berrizbeitia, a Computer Science student at UF focused on softw
 ## Tech & Interests
 - 🧰 Languages: C++, Java, Kotlin, Python, JavaScript, TypeScript
 - 🔭 Focus: software engineering, developer tooling, productivity systems, game logic, systems thinking, and building things that improve efficiency
-- ❤️ Interests: powerlifting, Kovaaks, esports, gaming, Deadlock, and learning new tools, systems, and ideas through building
+- ❤️ Interests: Anime, powerlifting, Kovaak's, esports, gaming, Deadlock, and learning new tools, systems, and ideas through building
